@@ -22,4 +22,8 @@
   <th>activity-3</th>
   <th>understanding of external javascript</th>
   </tr>
+  <tr>
+    <th>4<th>
+    <th>activity-4<th>
+    <th>understanding noscripttag
   
